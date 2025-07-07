@@ -9,3 +9,13 @@ Tabel 1 : Perbandingan Metode Sinkronisasi
 
 Tabel 2 : Gantt Chart
 ![image](https://github.com/user-attachments/assets/95d0bfae-a93c-43c8-b4f8-b8b49703312e)
+
+Sruktur folder
+![image](https://github.com/user-attachments/assets/f8af3dab-70c4-4941-a5ad-22283c2f39e2)
+
+Tabel 3 : Pengujian Fungsional
+![image](https://github.com/user-attachments/assets/263a8694-8930-41c4-ba74-e8e07deb2dcf)
+
+Dokumentasi hasil tampilan chat
+![image](https://github.com/user-attachments/assets/6f434a9e-dec3-4df2-a891-5aa2f73f93eb)
+
